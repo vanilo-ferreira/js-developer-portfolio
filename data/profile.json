@@ -3,22 +3,46 @@
   "photo": "https://avatars.githubusercontent.com/u/80366792?v=4",
   "titulo": "Desenvolvedor Júnior",
   "localidade": "Salvador -BA",
-  "telefone": "(71) 99309-2086",
+  "telefo  ne": "(71) 99309-2086",
   "email": "vanilo.ferreira03@gmail.com",
   "skills": {
     "hardSkills": [
       {
-        "nome": "Android",
-        "logo": "TODO"
+        "name": "Angular",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
+      },
+         {
+        "name": "CSS",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
       {
-        "nome": "Java",
-        "logo": "TODO"
+        "name": "HTML",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/html.png"
       },
       {
-        "nome": "Kotlin",
-        "logo": "TODO"
-      }
+        "name": "JavaScript",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/js.png"
+      },
+      {
+        "name": "Python",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/Python.png"
+      },
+       {
+        "name": "PostegreSQL",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/postgreSQL.png"
+      },
+       {
+        "name": "React",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
+      },
+      {
+        "name": "TypeScript",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/ts.png"
+      },
+          {
+        "name": "Vite",
+        "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/vite.png"
+      }  
     ],
     "softSkills": [
       "Liderança",
