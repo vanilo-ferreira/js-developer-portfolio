@@ -1,13 +1,10 @@
 {
-  "nome": "Venilton FalvoJr",
+  "nome": "Vanilo Ferreira",
+  "photo": "https://avatars.githubusercontent.com/u/80366792?v=4",
   "titulo": "Education Tech Lead na DIO",
-  "localidade": {
-    "cidade": "Araraquara",
-    "estado": "São Paulo",
-    "pais": "Brasil"
-  },
-  "telefone": "(16) 99721-8281",
-  "email": "venilton@dio.me",
+  "localidade": "Salvador -BA",
+  "telefone": "(71) 99309-2086",
+  "email": "vanilo.ferreira03@gmail.com",
   "skills": {
     "hardSkills": [
       {
