@@ -3,7 +3,7 @@
   "photo": "https://avatars.githubusercontent.com/u/80366792?v=4",
   "titulo": "Desenvolvedor Júnior",
   "localidade": "Salvador -BA",
-  "telefo  ne": "(71) 99309-2086",
+  "telefone": "(71) 99309-2086",
   "email": "vanilo.ferreira03@gmail.com",
   "skills": {
     "hardSkills": [
@@ -52,19 +52,8 @@
       "Flexibilidade"
     ]
   },
-  "idiomas": [
-    {
-      "nome": "Português",
-      "nivel": "Nativo"
-    },
-    {
-      "nome": "Inglês",
-      "nivel": "Intermediário"
-    },
-    {
-      "nome": "Espanhol",
-      "nivel": "Básico"
-    }
+  "language": [
+  "Português", "Inglês", "Espanhol"
   ],
   "educacao": [
     {
