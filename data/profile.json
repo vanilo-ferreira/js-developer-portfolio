@@ -11,7 +11,7 @@
         "name": "Angular",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/angular.png"
       },
-         {
+      {
         "name": "CSS",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/css.png"
       },
@@ -27,11 +27,11 @@
         "name": "Python",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/Python.png"
       },
-       {
+      {
         "name": "PostegreSQL",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/postgreSQL.png"
       },
-       {
+      {
         "name": "React",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/react.png"
       },
@@ -39,10 +39,10 @@
         "name": "TypeScript",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/ts.png"
       },
-          {
+      {
         "name": "Vite",
         "logo": "https://raw.githubusercontent.com/vanilo-ferreira/js-developer-portfolio/refs/heads/main/data/imgs/vite.png"
-      }  
+      }
     ],
     "softSkills": [
       "Liderança",
@@ -53,7 +53,9 @@
     ]
   },
   "language": [
-  "Português (Nativo)", "Inglês (Básico)", "Espanhol (Básico)"
+    "Português (Nativo)",
+    "Inglês (Básico)",
+    "Espanhol (Básico)"
   ],
   "portfolio": [
     {
@@ -78,12 +80,12 @@
       "period": "agosto/2024 – Dias atuais",
       "description": "Experiência no desenvolvimento de projetos Open Source utilizando React, Typescript e Styled Components. Atuando com metodologias ágeis, como SCRUM, e mantenho constante comunicação com outras verticais, como Produto, UI/UX, Backend, QA e Ágil. Domínio em versionamento de código com Git, utilizando repositórios no Github, além de experiência no uso de Kanban por meio do Github Projects."
     },
-        {
+    {
       "name": "Desenvolvedor Back-End Júnior, FDTE",
       "period": "novembro/2021 a maio/2023",
       "description": "Experiência no desenvolvimento de projetos web, incluindo chatbot, e commerce e licitações públicas, utilizando JavaScript, Node.JS. Desenvolvido de aplicação low-code, utilizando a ferramenta Xano, para o back-end, e Webflow, para o front-end. Atuação na criação e aplicação de testes de software, com e sem o uso do Cucumber. Planejamento e desenvolvimento de workflows utilizando BPMN. Conhecimento em metodologias ágeis (Scrum, Kanban, Kick-off) e versionamento de código com Git, Bitbucket e Github. Experiência na geração de arquivos JSON baseados em BPMN por meio do framework Flowbuild."
     },
-        {
+    {
       "name": "Estagiário de Sistemas de Informação, Secretaria de Educação do Estado da Bahia – SEC/BA",
       "period": "junho/2019 a junho/2020",
       "description": "Criação de conteúdo para mídias digitais, desenvolvimento de material tecnológico para formação audiovisual, gestão e organização de documentos digitais, incluindo análise, arquivamento e localização, além de atendimento remoto a colégios da rede estadual de ensino."
