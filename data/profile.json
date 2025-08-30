@@ -59,17 +59,17 @@
     {
       "name": "Gelateria",
       "url": "https://github.com/vanilo-ferreira/gelateria",
-      "git": true
+      "github": true
     },
     {
       "name": "Buscardor de CEP",
       "url": "https://github.com/vanilo-ferreira/buscador-cep",
-      "git": true
+      "github": true
     },
     {
       "name": "Marketplace",
       "url": "https://github.com/vanilo-ferreira/api-marketplace",
-      "git": true
+      "github": true
     }
   ],
   "experiencias": [
