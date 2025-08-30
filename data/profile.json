@@ -53,22 +53,22 @@
     ]
   },
   "language": [
-  "Português", "Inglês", "Espanhol"
+  "Português (Nativo)", "Inglês (Básico)", "Espanhol (Básico)"
   ],
   "portfolio": [
     {
       "name": "Gelateria",
-      "gitHub": "https://github.com/vanilo-ferreira/gelateria",
+      "url": "https://github.com/vanilo-ferreira/gelateria",
       "git": true
     },
     {
       "name": "Buscardor de CEP",
-      "gitHub": "https://github.com/vanilo-ferreira/buscador-cep",
+      "url": "https://github.com/vanilo-ferreira/buscador-cep",
       "git": true
     },
     {
       "name": "Marketplace",
-      "gitHub": "https://github.com/vanilo-ferreira/api-marketplace",
+      "url": "https://github.com/vanilo-ferreira/api-marketplace",
       "git": true
     }
   ],
